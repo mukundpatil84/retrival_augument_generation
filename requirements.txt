@@ -1,0 +1,13 @@
+python-dotenv
+langchain
+langchain-core
+langchain_community
+pypdf
+pymupdf
+langchain_chroma
+langchain_huggingface
+sentence_transformers
+uuid
+langchain_groq
+langchain-classic
+langchain-ollama

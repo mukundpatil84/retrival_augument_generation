@@ -1,0 +1,23 @@
+I have been a Lead Engineer for over a 15+ year, where I leverage my AWS, backend technologies and DevOps expertise to create innovative solutions with security. I hold AWS Certified Solutions Architect and Certified SAFe Practitioner credentials, as well as a Sun Certified Java Programmer certification. I have extensive experience in TypeScript, Java, Python, Node.js, MongoDB, and CICD/CDK deployment, backend services, ensuring robust and scalable cloud-based systems for enterprise clients. Experienced in full SDLC (Requirement Analysis, Estimation, Architecture/Design Specifications, Coding/Code Reviews, Testing, and Deployment) with Agile - Scrum/Kanban and Waterfall methodologies
+
+As a technical leader, I excel in project management and agile leadership, driving seamless collaboration and delivering high-quality products within deadlines and budgets. I have worked with PLM, IIoT, and security domains, and I have received multiple awards for my outstanding performance and contributions, including the Werner von Siemens Award 2021. My passion is to leverage cutting-edge technology to enhance product development and customer satisfaction.
+
+Structured yet adaptable to swift changes and committed to continuous learning.
+
+
+
+Lead Engineer with 15+ years of experience leveraging AWS, backend technologies, and DevOps expertise to build secure, innovative solutions.
+
+Technical Proficiency in TypeScript, Java, Python, Node.js, MongoDB, CI/CD & CDK deployments, and backend services — ensuring robust and scalable cloud-based systems for enterprise clients.
+
+Full SDLC Expertise: Requirement analysis, estimation, architecture/design specifications, coding/code reviews, testing, and deployment across Agile (Scrum/Kanban) and Waterfall methodologies.
+
+Proven Technical Leadership: Skilled in project management and agile leadership, driving collaboration and delivering high-quality products on time and within budget.
+
+Domain Experience: PLM, IIoT, and security domains with a record of multiple awards, including prestigious Werner von Siemens Award 2021 for outstanding performance and contributions.
+
+Passionate Innovator: Dedicated to leveraging cutting-edge technologies to enhance product development and customer satisfaction.
+
+Adaptable & Growth-Oriented: Structured yet flexible, with a strong commitment to continuous learning.
+
+Certified Professional: AWS Certified Solutions Architect, Certified SAFe Practitioner, and Sun Certified Java Programmer.
